@@ -1,0 +1,4 @@
+title=tile-to-go
+author=EvanD
+orientation=portrait
+fullscreen=1
